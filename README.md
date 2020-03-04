@@ -5,4 +5,4 @@
 
 Hello World!
 
-We are a group of artist trying our hands at pprogramming!
+We are a group of artist trying our hands at programming!
