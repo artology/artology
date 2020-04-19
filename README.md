@@ -5,4 +5,6 @@
 
 Hello World!
 
-We are a group of artist trying our hands at programming!
+We are a group of _ARTIST_ trying our hands at programming!
+
+We are here to share our tools, scripts, and Mods :)
